@@ -30,18 +30,18 @@
 
 <h3>Pantalla de Inicio</h3>
 <p>Interfaz principal donde se agregan los participantes.</p>
-![INICIO AMIGO S](https://github.com/user-attachments/assets/a02f9582-1f16-4b07-9a6f-9b6d154bef58)
-
+[Pantalla de Inicio](https://github.com/user-attachments/assets/a02f9582-1f16-4b07-9a6f-9b6d154bef58)
 
 
 <h3>Lista de Participantes</h3>
 <p>Sección donde se muestran los nombres antes del sorteo.</p>
-<img src="(https://github.com/user-attachments/assets/108edae4-3eb5-4f84-a4b4-9163d66fc872)" alt="Lista de participantes" width="600">
+[Lista de Participantes](https://github.com/user-attachments/assets/713a9fbf-c0cd-4989-b6e6-316ac302e498)
+
 
 
 <h3>Resultado del Sorteo</h3>
 <p>Visualización del resultado con los emparejamientos.</p>
-<img src="ruta/a/la/captura3.png" alt="Resultados del sorteo" width="600">
+[Resultado del Sorteo](https://github.com/user-attachments/assets/e37e5096-1daa-4946-9b2e-ba523711b949)
 
 
 
