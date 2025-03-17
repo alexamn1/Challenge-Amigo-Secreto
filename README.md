@@ -74,8 +74,8 @@
 <h2>📞 Contacto</h2>
 <p>Si tienes alguna pregunta o sugerencia, no dudes en contactarme:</p>
 <ul>
-    <li>📧 Email: <a href="mailto:alexamunoznunez@gmail.com">tuemail@example.com</a></li>
-    <li>🐙 GitHub: <a href="https://github.com/alexamn1" target="_blank">https://github.com/tu-usuario</a></li>
+    <li>📧 Email: <a href="mailto:alexamunoznunez@gmail.com">alexamunoznunez@gmail.com</a></li>
+    <li>🐙 GitHub: <a href="https://github.com/alexamn1" target="_blank">https://github.com/alexamn1</a></li>
 </ul>
 
 </body>
