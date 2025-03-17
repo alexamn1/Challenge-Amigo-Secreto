@@ -30,7 +30,8 @@
 
 <h3>Pantalla de Inicio</h3>
 <p>Interfaz principal donde se agregan los participantes.</p>
-<img src="(https://github.com/user-attachments/assets/0b375914-d005-4eb5-a90b-6612fe8efef9)" alt="Pantalla de inicio" width="600">
+![INICIO AMIGO S](https://github.com/user-attachments/assets/a02f9582-1f16-4b07-9a6f-9b6d154bef58)
+
 
 
 <h3>Lista de Participantes</h3>
